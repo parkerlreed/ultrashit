@@ -1,10 +1,10 @@
 <p align="center">
-<a href="https://github.com/gaavin/kosmos-2/releases">
-<img src="https://i.imgur.com/iC4hZkm.png"></a>
+<a href="https://github.com/gaavin/ultrasphere/releases">
+<img src="https://i.imgur.com/o54kvMt.png"></a>
 <br>
-If you are looking for Kosmos, this is Kosmos' safer and way more extended evolution.
+If you are looking for Ultrasphere, this is Ultrasphere's safer and way more extended evolution.
 <br>
-If you are a current Kosmos user, you need Kosmos 2!
+If you are a current Ultrasphere user, you need Ultrasphere Reloaded!
 </p>
 
 ## Features
