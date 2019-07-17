@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/gaavin/ultrasphere/releases">
-<img src="https://i.imgur.com/o54kvMt.png"></a>
+<img src="https://i.imgur.com/9Ndd6v3.png"></a>
 <br>
 If you are looking for Ultrasphere, this is Ultrasphere's safer and way more extended evolution.
 <br>
@@ -35,6 +35,7 @@ If you are a current Ultrasphere user, you need Ultrasphere Reloaded!
 * Mattytrog (payload.bin chainloader)
 * jakibaki (sysftpd)
 * blawar (tinfoil, incognito)
+* GBATemp user HRudyPlayZ (Banner and bootlogo)
 * Dalai Lama
 * GaryOPA & Team Xecuter
 
