@@ -4,7 +4,7 @@
 <br>
 <b>If you are looking for Kosmos, this is Kosmos' safer and way more extended evolution.
 <br>
-<b>If you are a current Kosmos user, you need Kosmos 2!<\b>
+If you are a current Kosmos user, you need Kosmos 2!<\b>
 </p>
 
 ## Features
