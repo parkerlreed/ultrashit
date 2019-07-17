@@ -2,9 +2,9 @@
 <a href="https://github.com/gaavin/ultrasphere/releases">
 <img src="https://i.imgur.com/9Ndd6v3.png"></a>
 <br>
-If you are looking for Ultrasphere, this is Ultrasphere's safer and way more extended evolution.
+If you are looking for Ultrashit, this is Ultrashit's safer and way more extended evolution.
 <br>
-If you are a current Ultrasphere user, you need Ultrasphere Reloaded!
+If you are a current Ultrashit user, you need Ultrashit Rebranded!
 </p>
 
 ## Features
