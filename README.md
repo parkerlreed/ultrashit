@@ -8,35 +8,25 @@ If you are a current Ultrasphere user, you need Ultrasphere Reloaded!
 </p>
 
 ## Features
-* Vanilla Atmosphere
-* All required sigpatches for Atmosphere + Hekate.
-* SX OS
-* Up-to-date packages
-* Splash screens and instant launch
-* Background FTP-Server
-* Drag and drop
-* A very handsome bootlogo by Team Xecuter and GaryOPA
-* The latest and best homebrew from blawar
-* Always boot payload.bin from root of sd, even reboot-to-payload!
+* Vanilla flavored shit
+* All required suppositories for taking a shit
+* ShitX OS
+* Shit-to-date packages
+* Shit screens and instant shit
+* Background SHIT-Server
+* Shit and shit
+* A very shitty bootlogo by Team SHITcecuter and SHITOPA
+* The latest and best shit from shit-user
+* Always shit payload.bin from root of shitd, even reboot-to-shit!
 * **and much more!**
 
 ## How to use
-1.) Back up your sdcard (Nintendo folder) if you are setting up emunand.
+1.) Back up your shit (SHITendo folder) if you are setting up shitnand.
 
-2.) Copy files to sdcard, launch payload.bin from root of SD.
+2.) Copy files to shitcard, launch shit.bin from root of ShitD.
 
-3.) Set up emunand on hidden partition in SX OS (hold vol+ after selecting SX OS in hekate), copy files back to sd card afterwards.
+3.) Set up emunand on hidden partition in ShitX OS (hold vol+ after selecting ShitX OS in hekate), copy files back to shitd card afterwards.
 
-4.) Boot into emunand through hekate and install incognito (SX OS or Atmosphere works for this) to prevent bans.
+4.) Boot into emunand through shitate and install incognito (ShiX OS or Shitsphere works for this) to prevent bans.
 
-## Credits
-* ReSwitched (Atmosphere)
-* AtlasNX (Kosmos)
-* Mattytrog (payload.bin chainloader)
-* Thom (Ultrasphere)
-* jakibaki (sysftpd)
-* blawar (tinfoil, incognito)
-* GBATemp user HRudyPlayZ (Banner and bootlogo)
-* /hbg/
-* Dalai Lama
-* GaryOPA & Team Xecuter
+
