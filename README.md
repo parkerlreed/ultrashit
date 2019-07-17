@@ -17,6 +17,7 @@ If you are a current Kosmos user, you need Kosmos 2!
 * Drag and drop
 * A very handsome bootlogo by Team Xecuter and GaryOPA
 * The latest and best homebrew from blawar
+* Always boot payload.bin from root of sd, even reboot-to-payload!
 * **and much more!**
 
 ## How to use
