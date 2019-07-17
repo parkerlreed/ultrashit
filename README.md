@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/shit/shit/releases">
-<img src="https://i.imgur.com/9Ndd6v3.png"></a>
+<img src="https://i.imgur.com/fr4wfp1.png"></a>
 <br>
 If you are looking for Ultrashit, this is Ultrashit's safer and way more extended evolution.
 <br>
