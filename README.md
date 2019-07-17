@@ -35,6 +35,7 @@ If you are a current Ultrasphere user, you need Ultrasphere Reloaded!
 * Mattytrog (payload.bin chainloader)
 * jakibaki (sysftpd)
 * blawar (tinfoil, incognito)
+* /hbg/
 * Dalai Lama
 * GaryOPA & Team Xecuter
 
