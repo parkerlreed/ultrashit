@@ -33,9 +33,10 @@ If you are a current Ultrasphere user, you need Ultrasphere Reloaded!
 * ReSwitched (Atmosphere)
 * AtlasNX (Kosmos)
 * Mattytrog (payload.bin chainloader)
+* Thom (Ultrasphere)
 * jakibaki (sysftpd)
 * blawar (tinfoil, incognito)
 * GBATemp user HRudyPlayZ (Banner and bootlogo)
+* /hbg/
 * Dalai Lama
 * GaryOPA & Team Xecuter
-
