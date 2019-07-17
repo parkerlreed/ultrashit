@@ -2,9 +2,9 @@
 <a href="https://github.com/gaavin/kosmos-2/releases">
 <img src="https://i.imgur.com/iC4hZkm.png"></a>
 <br>
-<b>If you are looking for Kosmos, this is Kosmos' safer and way more extended evolution.
+If you are looking for Kosmos, this is Kosmos' safer and way more extended evolution.
 <br>
-If you are a current Kosmos user, you need Kosmos 2!<\b>
+If you are a current Kosmos user, you need Kosmos 2!
 </p>
 
 ## Features
