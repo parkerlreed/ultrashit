@@ -28,3 +28,13 @@ If you are a current Ultrasphere user, you need Ultrasphere Reloaded!
 3.) Set up emunand on hidden partition in SX OS (hold vol+ after selecting SX OS in hekate), copy files back to sd card afterwards.
 
 4.) Boot into emunand through hekate and install incognito (SX OS or Atmosphere works for this) to prevent bans.
+
+## Credits
+* ReSwitched (Atmosphere)
+* AtlasNX (Kosmos)
+* Mattytrog (payload.bin chainloader)
+* jakibaki (sysftpd)
+* blawar (tinfoil, incognito)
+* Dalai Lama
+* GaryOPA & Team Xecuter
+
