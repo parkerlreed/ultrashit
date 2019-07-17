@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/gaavin/ultrasphere/releases">
+<a href="https://github.com/shit/shit/releases">
 <img src="https://i.imgur.com/9Ndd6v3.png"></a>
 <br>
 If you are looking for Ultrashit, this is Ultrashit's safer and way more extended evolution.
